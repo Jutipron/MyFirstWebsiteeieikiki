@@ -1,0 +1,23 @@
+body
+{background-color: hsl(337, 91%, 68%); }        
+p {font color : E9E8E8 ;}
+
+/* *กำหนด hr ไข่ปลา */
+hr {border-style: none; border-top-style: dotted;border-color:#93BFCF;border-width: 5px; width: 20%;}
+
+img{
+    background-color: lightblue;
+}
+
+.mushroom{
+    background-color: aliceblue;
+    }
+
+.circular{
+    border-radius: 100%;
+}
+
+#heading{
+    color: rgb(87, 255, 196);
+    font-style: italic;
+}
